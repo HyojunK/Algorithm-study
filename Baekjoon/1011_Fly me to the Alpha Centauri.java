@@ -16,10 +16,7 @@ public class Main {
 			double isSqrt = Math.sqrt(distance);//제곱근 판단용
 			int range = (int)Math.sqrt(distance);//거리의 제곱근 범위 시작
 			
-			if(distance <= 3 ) {
-				cnt = distance;
-			}
-			else if(isSqrt == range) {
+			if(isSqrt == range) {
 				//거리가 어떤 수의 제곱이면
 				//횟수는 거리의 (제곱근*2)-1
 				cnt = (range*2)-1;
