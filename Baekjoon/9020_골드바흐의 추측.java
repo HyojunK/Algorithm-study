@@ -13,23 +13,12 @@ public class Main {
 		
 		for(int i = 0; i < t; i++) {
 			int n = scan.nextInt();
-			int a = 0;
-			int b = 0;
-			int answerChk = 0;
+			int a = n/2;
+			int b = n/2;
 			
-			for(int j = n/2; j < n; j++) {
-				if(prime[j]) continue;
-				if(!prime[j]) b = j;
-				
-				for(int k = n - j; k >= 1; k--) {
-					if(prime[k]) continue;
-					if(k + b == n) {
-						a = k;
-						answerChk = 1;
-						break;
-					}
-				}
-				if(answerChk == 1) break;
+			while(prime[a]||prime[b]) {
+				a--;
+				b++;
 			}
 			System.out.println(a + " " + b);
 		}
