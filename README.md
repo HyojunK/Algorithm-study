@@ -6,7 +6,7 @@
 ### Array
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
-||[1. Two Sum](https://leetcode.com/problems/two-sum/)|<span style="color:#00B8A3">Easy</span>||
+|:white_check_mark:|[1. Two Sum](https://leetcode.com/problems/two-sum/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.%20two%20sum.java)|
 ||[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|<span style="color:#00B8A3">Easy</span>||
 ||[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|<span style="color:#00B8A3">Easy</span>||
 ||[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|<span style="color:#FFC01E">Medium</span>||
