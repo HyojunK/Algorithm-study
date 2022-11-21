@@ -19,7 +19,7 @@
 ### Binary
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
-||[371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|<span style="color:#FFC01E">Medium</span>||
+|:white_check_mark:|[371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/371.%20Sum%20of%20Two%20Integers.java)|
 ||[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|<span style="color:#00B8A3">Easy</span>||
 ||[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|<span style="color:#00B8A3">Easy</span>||
 ||[268. Missing Number](https://leetcode.com/problems/missing-number/)|<span style="color:#00B8A3">Easy</span>||
