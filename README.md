@@ -23,7 +23,7 @@
 |:white_check_mark:|[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/191.%20Number%20of%201%20Bits.java)|
 |:white_check_mark:|[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/338.%20Counting%20Bits.java)|
 ||[268. Missing Number](https://leetcode.com/problems/missing-number/)|<span style="color:#00B8A3">Easy</span>||
-||[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)|<span style="color:#00B8A3">Easy</span>||
+|:white_check_mark:|[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/190.%20Reverse%20Bits.java)|
 ### Dynamic Programming
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
