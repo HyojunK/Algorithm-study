@@ -28,7 +28,7 @@
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
 |:white_check_mark:|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/70.%20Climbing%20Stairs.java)|
-||[322. Coin Change](https://leetcode.com/problems/coin-change/)|<span style="color:#FFC01E">Medium</span>||
+|:white_check_mark:|[322. Coin Change](https://leetcode.com/problems/coin-change/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/322.%20Coin%20Change.java)|
 ||[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|<span style="color:#FFC01E">Medium</span>||
 ||[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|<span style="color:#FFC01E">Medium</span>||
 ||[139. Word Break](https://leetcode.com/problems/word-break/)|<span style="color:#FFC01E">Medium</span>||
