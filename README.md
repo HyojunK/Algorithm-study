@@ -60,7 +60,7 @@
 ### Linked List
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
-||[206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)|<span style="color:#00B8A3">Easy</span>||
+|:white_check_mark:|[206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/206.%20Reverse%20Linked%20List.java)|
 ||[141. Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)|<span style="color:#00B8A3">Easy</span>||
 ||[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|<span style="color:#00B8A3">Easy</span>||
 ||[23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|<span style="color:#FF375F">Hard</span>||
