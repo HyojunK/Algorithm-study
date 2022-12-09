@@ -91,7 +91,7 @@
 |:---:|---|---|---|
 |:white_check_mark:|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|
 |:white_check_mark:|[100. Same Tree](https://leetcode.com/problems/same-tree/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/100.%20Same%20Tree.java)|
-||[226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|<span style="color:#00B8A3">Easy</span>||
+|:white_check_mark:|[226. Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/226.%20Invert%20Binary%20Tree.java)|
 ||[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|<span style="color:#FF375F">Hard</span>||
 ||[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|<span style="color:#FFC01E">Medium</span>||
 ||[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|<span style="color:#FF375F">Hard</span>||
