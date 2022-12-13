@@ -1,4 +1,4 @@
-# 알고리즘 공부
+# 알고리즘 풀이
 * 백준 온라인 저지 : [https://www.acmicpc.net](https://www.acmicpc.net)
 * 프로그래머스 : [https://programmers.co.kr](https://programmers.co.kr)
 * LeetCode : [https://leetcode.com/](https://leetcode.com/)
@@ -36,7 +36,7 @@
 |:white_check_mark:|[198. House Robber](https://leetcode.com/problems/house-robber/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/198.%20House%20Robber.java)|
 ||[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)|<span style="color:#FFC01E">Medium</span>||
 |:white_check_mark:|[91. Decode Ways](https://leetcode.com/problems/decode-ways/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/91.%20Decode%20Ways.java)|
-||[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|<span style="color:#FFC01E">Medium</span>||
+|:white_check_mark:|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/62.%20Unique%20Paths.java)|
 ||[55. Jump Game](https://leetcode.com/problems/jump-game/)|<span style="color:#FFC01E">Medium</span>||
 ### Graph
 |Status|Title|Difficulty|Solutions|
