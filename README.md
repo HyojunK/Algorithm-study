@@ -29,7 +29,7 @@
 |:---:|---|---|---|
 |:white_check_mark:|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/70.%20Climbing%20Stairs.java)|
 |:white_check_mark:|[322. Coin Change](https://leetcode.com/problems/coin-change/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/322.%20Coin%20Change.java)|
-||[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|<span style="color:#FFC01E">Medium</span>||
+|:white_check_mark:|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/300.%20Longest%20Increasing%20Subsequence.java)|
 ||[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|<span style="color:#FFC01E">Medium</span>||
 |:white_check_mark:|[139. Word Break](https://leetcode.com/problems/word-break/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/139.%20Word%20Break.java)|
 |:white_check_mark:|[39. Combination Sum](https://leetcode.com/problems/combination-sum-iv/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/377.%20Combination%20Sum%20IV.java)|
