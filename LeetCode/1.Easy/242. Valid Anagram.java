@@ -8,7 +8,6 @@ class Solution {
         // 각 문자열을 char 배열로 변환
         char[] sChar = s.toCharArray();
         char[] tChar = t.toCharArray();
-        int sum = 0; // 배열의 각 요소들의 합
         
         // 배열의 각 문자를 key로 하는 map을 만들고
         // s 배열의 값은 더하고 t 배열의 값은 빼준다
