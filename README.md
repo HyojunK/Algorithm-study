@@ -42,7 +42,7 @@
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
 |:white_check_mark:|[133. Clone Graph](https://leetcode.com/problems/clone-graph/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/133.%20Clone%20Graph.java)|
-||[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|<span style="color:#FFC01E">Medium</span>||
+|:white_check_mark:|[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/207.%20Course%20Schedule.java)|
 ||[417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|<span style="color:#FFC01E">Medium</span>||
 ||[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|<span style="color:#FFC01E">Medium</span>||
 ||[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|<span style="color:#FFC01E">Medium</span>||
