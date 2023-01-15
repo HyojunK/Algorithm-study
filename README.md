@@ -95,7 +95,7 @@
 ||[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|<span style="color:#FF375F">Hard</span>||
 ||[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|<span style="color:#FFC01E">Medium</span>||
 ||[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|<span style="color:#FF375F">Hard</span>||
-||[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|<span style="color:#00B8A3">Easy</span>||
+|:white_check_mark:|[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/572.%20Subtree%20of%20Another%20Tree.java)|
 ||[105. Construct Binary Tree From Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|<span style="color:#FFC01E">Medium</span>||
 ||[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|<span style="color:#FFC01E">Medium</span>||
 ||[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|<span style="color:#FFC01E">Medium</span>||
