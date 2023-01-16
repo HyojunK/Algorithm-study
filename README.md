@@ -99,7 +99,7 @@
 ||[105. Construct Binary Tree From Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|<span style="color:#FFC01E">Medium</span>||
 ||[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|<span style="color:#FFC01E">Medium</span>||
 ||[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|<span style="color:#FFC01E">Medium</span>||
-||[235. Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|<span style="color:#00B8A3">Easy</span>||
+||[235. Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|<span style="color:#FFC01E">Medium</span>||
 ||[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|<span style="color:#FFC01E">Medium</span>||
 ||[211. Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|<span style="color:#FFC01E">Medium</span>||
 ||[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|<span style="color:#FF375F">Hard</span>||
