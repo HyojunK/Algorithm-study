@@ -76,7 +76,7 @@
 ### String
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
-||[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|<span style="color:#FFC01E">Medium</span>||
+|:white_check_mark:|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java)|
 ||[424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|<span style="color:#FFC01E">Medium</span>||
 ||[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|<span style="color:#FF375F">Hard</span>||
 |:white_check_mark:|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/242.%20Valid%20Anagram.java)|
