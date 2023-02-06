@@ -107,5 +107,5 @@
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
 |:white_check_mark:|[23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|<span style="color:#FF375F">Hard</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/3.Hard/23.%20Merge%20k%20Sorted%20Lists.java)|
-||[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|<span style="color:#FFC01E">Medium</span>||
+|:white_check_mark:|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/347.%20Top%20K%20Frequent%20Elements.java)|
 ||[295. Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|<span style="color:#FF375F">Hard</span>||
