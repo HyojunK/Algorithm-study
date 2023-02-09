@@ -99,7 +99,7 @@
 ||[105. Construct Binary Tree From Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|<span style="color:#FFC01E">Medium</span>||
 |:white_check_mark:|[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/98.%20Validate%20Binary%20Search%20Tree.java)|
 |:white_check_mark:|[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/230.%20Kth%20Smallest%20Element%20in%20a%20BST.java)|
-||[235. Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|<span style="color:#FFC01E">Medium</span>||
+|:white_check_mark:|[235. Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java)|
 ||[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|<span style="color:#FFC01E">Medium</span>||
 ||[211. Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|<span style="color:#FFC01E">Medium</span>||
 ||[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|<span style="color:#FF375F">Hard</span>||
