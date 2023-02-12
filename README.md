@@ -84,7 +84,7 @@
 |:white_check_mark:|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/20.%20Valid%20Parentheses.java)|
 |:white_check_mark:|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/125.%20Valid%20Palindrome.java)|
 |:white_check_mark:|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/5.%20Longest%20Palindromic%20Substring.java)|
-||[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|<span style="color:#FFC01E">Medium</span>||
+|:white_check_mark:|[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/647.%20Palindromic%20Substrings.java)|
 ||[271. Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)|<span style="color:#FFC01E">Medium</span>||
 ### Tree
 |Status|Title|Difficulty|Solutions|
