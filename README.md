@@ -6,12 +6,12 @@
 ### Array
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
-|:white_check_mark:|[1. Two Sum](https://leetcode.com/problems/two-sum/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.%20two%20sum.java)|
-|:white_check_mark:|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|
-|:white_check_mark:|[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|
-|:white_check_mark:|[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/238.%20Product%20of%20Array%20Except%20Self.java)|
-|:white_check_mark:|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/53.%20Maximum%20Subarray.java)|
-|:white_check_mark:|[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/152.%20Maximum%20Product%20Subarray.java)|
+|:white_check_mark:|[1. Two Sum](https://leetcode.com/problems/two-sum/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/1.%20two%20sum.java)|
+|:white_check_mark:|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|
+|:white_check_mark:|[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/217.%20Contains%20Duplicate.java)|
+|:white_check_mark:|[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/238.%20Product%20of%20Array%20Except%20Self.java)|
+|:white_check_mark:|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/53.%20Maximum%20Subarray.java)|
+|:white_check_mark:|[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/152.%20Maximum%20Product%20Subarray.java)|
 |:white_check_mark:|[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|
 |:white_check_mark:|[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.java)|
 |:white_check_mark:|[15. 3Sum](https://leetcode.com/problems/3sum/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/15.%203Sum.java)|
@@ -27,7 +27,7 @@
 ### Dynamic Programming
 |Status|Title|Difficulty|Solutions|
 |:---:|---|---|---|
-|:white_check_mark:|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/70.%20Climbing%20Stairs.java)|
+|:white_check_mark:|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|<span style="color:#00B8A3">Easy</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/1.Easy/70.%20Climbing%20Stairs.java)|
 |:white_check_mark:|[322. Coin Change](https://leetcode.com/problems/coin-change/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/322.%20Coin%20Change.java)|
 |:white_check_mark:|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/300.%20Longest%20Increasing%20Subsequence.java)|
 |:white_check_mark:|[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|<span style="color:#FFC01E">Medium</span>|[Java](https://github.com/HyojunK/Algorithm-study/blob/master/LeetCode/2.Medium/1143.%20Longest%20Common%20Subsequence.java)|
