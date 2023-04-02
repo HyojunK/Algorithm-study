@@ -36,10 +36,9 @@ class Solution {
             
             // potions의 중간지점의 값과 spell의 곱이 target보다 크거나 같고
             // potions의 중간지점의 이전 값과 spell의 곱이 target보다 작은 경우
-            // 중간 지점부터 끝까지의 값을 result에 저장하고 탐색 종료
+            // 중간 지점부터 끝까지의 값을 return
             if((long)potions[mid] * spell >= target && (long)potions[mid - 1] * spell < target) {
-                result = potions.length - mid;
-                break;
+                return potions.length - mid;
             }
             // potions의 중간지점의 값과 spell의 곱이 target보다 작은 경우
             // 시작지점을 중간지점 뒤로 설정
@@ -52,6 +51,6 @@ class Solution {
             }
         }
         
-        return result;
+        return 0;
     }
 }
